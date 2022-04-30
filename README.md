@@ -9,4 +9,4 @@ Satalaj/Satalaj is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Dear friends, My name is Satalaj and this is my first test project.
-Which is boring and it has nothing init at this moment. Thank you. 
+Which is boring and it has nothing at this moment. Thank you. 
