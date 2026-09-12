@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satalaj
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ... pseudoscience, clairvoince, remotesensing projects based on cognetive AI ~ real intelligence
+- 👀 I’m interested in ... entertainment!! moving people who are stuck in their life 
+- 💞️ I’m looking to collaborate on ... pseudoscience, clairvoince, remote sensing human abilities projects based on cognetive AI ~ real intelligence
 - 📫 How to reach me ...
 
 <!---
